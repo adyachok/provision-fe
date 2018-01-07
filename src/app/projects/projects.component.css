@@ -1,0 +1,14 @@
+.example-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+  margin: 1rem;
+}
+
+.mat-table {
+  overflow: auto;
+  max-height: 80%;
+}
+.projects {
+  padding-top: 2rem;
+}
